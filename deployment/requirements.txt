@@ -1,0 +1,9 @@
+streamlit
+streamlit
+pandas 
+numpy
+joblib
+tensorflow
+scikit-learn==1.2.2
+feature_engine
+nltk
