@@ -1,0 +1,2 @@
+url deployment: https://huggingface.co/spaces/dayuima01/M2P2
+Url dataset : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
